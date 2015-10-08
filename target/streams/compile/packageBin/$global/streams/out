@@ -1,0 +1,13 @@
+[info] Packaging /Users/wangdabin1216/IdeaProjects/sbtSpark/target/scala-2.10/sbtspark_2.10-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	wdb/SparkPi$$anonfun$2.class
+[debug] 	  /Users/wangdabin1216/IdeaProjects/sbtSpark/target/scala-2.10/classes/wdb/SparkPi$$anonfun$2.class
+[debug] 	wdb/SparkPi.class
+[debug] 	  /Users/wangdabin1216/IdeaProjects/sbtSpark/target/scala-2.10/classes/wdb/SparkPi.class
+[debug] 	wdb/SparkPi$.class
+[debug] 	  /Users/wangdabin1216/IdeaProjects/sbtSpark/target/scala-2.10/classes/wdb/SparkPi$.class
+[debug] 	wdb
+[debug] 	  /Users/wangdabin1216/IdeaProjects/sbtSpark/target/scala-2.10/classes/wdb
+[debug] 	wdb/SparkPi$$anonfun$1.class
+[debug] 	  /Users/wangdabin1216/IdeaProjects/sbtSpark/target/scala-2.10/classes/wdb/SparkPi$$anonfun$1.class
+[info] Done packaging.
